@@ -6,8 +6,7 @@
   🎓 <b>Artificial Intelligence Engineer</b>  🤖 <b>Machine Learning</b> 📊 <b>Data analysis and visualization</b>    
 </p>
 
-## About me
-I am an Artificial Intelligence Engineering student at ESCOM (IPN) specializing in data processing and analysis. I use tools such as Python (Pandas, NumPy), SQL, Power BI, and Excel to design dashboards, analytical models, and automated processes. I am passionate about connecting artificial intelligence with sports and education, developing projects that transform data into useful and visual knowledge.
+
 
 
 ## 🧰 Tools
@@ -87,6 +86,5 @@ I am an Artificial Intelligence Engineering student at ESCOM (IPN) specializing 
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
   </a>
 </p>
-
 
 ---
