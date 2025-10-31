@@ -3,11 +3,7 @@
 <h1 align="center">👋 ¡Welcome to Jonathan Merino's Github</h1>
 
 <p align="center">
-  🎓 <b>Artificial Intelligence Engineer</b>   
-</p>
-
-<p align="center">
-   🤖 <b>Machine Learning</b> 📊 <b>Data analysis and visualization</b>  
+  🎓 <b>Artificial Intelligence Engineer</b>  🤖 <b>Machine Learning</b> 📊 <b>Data analysis and visualization</b>    
 </p>
 
 ## About me
@@ -78,8 +74,19 @@ I am an Artificial Intelligence Engineering student at ESCOM (IPN) specializing 
 ## 📫 Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jonathanmerino/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/jonathanmeriino/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.facebook.com/JonathanMeriino/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/el.dataflow/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jonathanmerino/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.twitch.tv/tobipov">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
