@@ -1,11 +1,14 @@
-## Hi there 👋
+
 
 <h1 align="center">👋 ¡Hola! Soy Jonathan Merino</h1>
 
 <p align="center">
-  🎓 <b>Ingeniero en Inteligencia Artificial</b> • 📊 <b>Analista de Datos</b> • 📚 <b>Profesor de Matemáticas</b>  
+  🎓 <b>Ingeniero en Inteligencia Artificial</b>   
 </p>
 
+<p align="center">
+   📊 <b>Analista de Datos</b> • 📚 <b>Profesor de Matemáticas</b>  
+</p>
 ---
 
 ## 🧠 Sobre mí
@@ -13,36 +16,9 @@
 Soy un ingeniero apasionado por la **Inteligencia Artificial**, la **Ciencia de Datos** y la **Educación**.  
 Combino mi formación técnica con mi experiencia como **profesor de matemáticas** y **entrenador de tenis** para crear proyectos que unen la **analítica de datos, el deporte y la enseñanza**.
 
-📚 Actualmente imparto clases en vivo de:
-- 🧮 Cálculo Diferencial  
-- 📏 Geometría Analítica  
-- ➕ Aritmética y Álgebra  
-
-🕒 **Sábados y domingos de 11:00 a 12:30 hrs**  
-💡 *La primera clase es gratuita.*
 
 ---
 
-## 🚀 Proyectos destacados
-
-### 🛰️ [Análisis histórico de misiones espaciales desde 1957](https://www.notion.so/An-lisis-hist-rico-de-misiones-espaciales-desde-1957-21d213251d79801499e3e3be64ed1b11)
-Proyecto de análisis de datos que explora las misiones espaciales desde 1957 hasta la actualidad.  
-Incluye visualizaciones como:
-- 📆 Misiones por año  
-- 🚀 Lanzamientos por compañía  
-- 🔧 Estado de los cohetes  
-- 💰 Dinero invertido  
-
----
-
-## 🎾 Tenis & Ciencia de Datos
-
-Soy **segundo entrenador del equipo representativo de tenis del IPN**, donde aplico herramientas de IA para:
-- Clasificar estilos de juego con **KNN**  
-- Crear plataformas para **gestión de torneos y horarios**  
-- Diseñar torneos tipo **Copa Davis** y circuitos de dobles/singles  
-
----
 
 ## 🧰 Tecnologías y herramientas
 
